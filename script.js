@@ -15,6 +15,9 @@
 // console.log( joinStrings());
 
 // masala linki : https://www.codewars.com/kata/582e4c3406e37fcc770001ad/train/javascript  //8kyu
+
+//const joinStrings = (string1, string2) => `${string1} ${string2}`; // stringni concat() , join() ishlatmasdan!
+
 //===========================================================================
 
 
